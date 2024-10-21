@@ -1,0 +1,32 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <nindrk>
+            <1>Stun</1>
+            <2>Aspir</2>
+            <3>Bind</3>
+            <4>Sleep</4>
+        </nindrk>
+        <ninjutsu>
+            <1>Hyoton</1>
+            <2>Suiton</2>
+            <3>Huton</3>
+            <4>Doton</4>
+            <5>Raiton</5>
+            <6>Katon</6>
+        </ninjutsu>
+        <ninrdm>
+            <1>Dispel</1>
+            <2>Sleep</2>
+            <3>Blind</3>
+            <4>Bind</4>
+        </ninrdm>
+        <rdmnin>
+            <1>Sleep</1>
+            <2>Sleep II</2>
+            <3>Bind</3>
+            <4>Dispel</4>
+            <5>Blind</5>
+        </rdmnin>
+    </global>
+</settings>
