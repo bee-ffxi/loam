@@ -22,10 +22,10 @@
             <4>Bind</4>
         </ninrdm>
         <rdmnin>
-            <1>Sleep</1>
-            <2>Sleep II</2>
-            <3>Bind</3>
-            <4>Dispel</4>
+            <1>Dispel</1>
+            <2>Sleep</2>
+            <3>Sleep II</3>
+            <4>Bind</4>
             <5>Blind</5>
         </rdmnin>
     </global>

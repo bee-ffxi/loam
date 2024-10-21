@@ -11,7 +11,7 @@ require('metadata')
 local defaults = {
     nindrk = {'Stun', 'Aspir', 'Bind', 'Sleep'},
     ninrdm = {'Dispel', 'Sleep', 'Blind', 'Bind'},
-    rdmnin = {'Sleep', 'Sleep II', 'Bind', 'Dispel', 'Blind'},
+    rdmnin = {'Dispel', 'Sleep', 'Sleep II', 'Bind', 'Blind'},
     ninjutsu = {'Hyoton', 'Huton', 'Suiton', 'Doton', 'Raiton', 'Katon'}
 }
 settings_path = 'data\\settings.xml'
